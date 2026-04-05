@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://netoaguamineral.com.br/sitemap.xml
